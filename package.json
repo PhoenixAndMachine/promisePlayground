@@ -1,0 +1,10 @@
+{
+  "name": "promisePlayground",
+  "version": "0.0.1",
+  "dependencies": {
+    "promise": "7.0.1"
+  },
+  "devDependencies": {
+    "docco": "0.7.0"
+  } 
+}
